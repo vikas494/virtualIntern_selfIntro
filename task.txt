@@ -1,0 +1,50 @@
+Project Requirements
+Your portfolio must include:
+
+Header Section
+
+Your name and a short title (e.g., Student / Web Developer)
+
+About Section
+
+Brief introduction about yourself
+
+Skills Section
+
+List of your skills (use cards or lists)
+
+Projects Section
+
+At least 2 sample projects (dummy or real)
+
+Contact Section
+
+Email or contact information
+
+Footer
+
+🎨 Design Requirements
+Use external CSS file (style.css)
+
+Proper spacing, colors, and readable fonts
+
+Use Flexbox for layout
+
+Add hover effects for buttons/links
+
+Must be mobile responsive
+
+📤 Submission Instructions
+After completing the project:
+
+Upload the project to GitHub
+
+Deploy the website using Netlify or GitHub Pages
+
+Record a 1–2 minute video explaining your website and code
+
+Post the video on LinkedIn, mentioning our company and internship
+
+Submit GitHub link + Live website link + LinkedIn post link
+
+⏰ Deadline: 26th ( Link will be released on 26th)
